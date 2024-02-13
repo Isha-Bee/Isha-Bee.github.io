@@ -13,7 +13,7 @@ permalink: /about/
 
 ## My NULAB Project:
 
-* I am working on the short stories of [Jhumpa Lahiri](https://en.wikipedia.org/wiki/Jhumpa_Lahiri) to look for the emotions expresses in the texts through the everyday activities and undertakings of the characters.
+* I am working on the short stories of [Jhumpa Lahiri](https://en.wikipedia.org/wiki/Jhumpa_Lahiri) to look for the emotions expressed in the texts through the everyday activities and undertakings of the characters.
 * I plan to make use of text tagging to denote my results.
 * I would also love to extend this project after class to create an interactive emotion map.
 
